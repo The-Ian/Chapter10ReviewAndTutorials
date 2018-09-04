@@ -1,0 +1,10 @@
+C:\Users\Cyberadmin\Desktop\C# Stuff\Chap10Tutorials\Chap10Tutorials\bin\Debug\Chap10Tutorials.exe.config
+C:\Users\Cyberadmin\Desktop\C# Stuff\Chap10Tutorials\Chap10Tutorials\bin\Debug\Chap10Tutorials.exe
+C:\Users\Cyberadmin\Desktop\C# Stuff\Chap10Tutorials\Chap10Tutorials\bin\Debug\Chap10Tutorials.pdb
+C:\Users\Cyberadmin\Desktop\C# Stuff\Chap10Tutorials\Chap10Tutorials\obj\Debug\Chap10Tutorials.csprojAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\C# Stuff\Chap10Tutorials\Chap10Tutorials\obj\Debug\Chap10Tutorials.Form1.resources
+C:\Users\Cyberadmin\Desktop\C# Stuff\Chap10Tutorials\Chap10Tutorials\obj\Debug\Chap10Tutorials.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\C# Stuff\Chap10Tutorials\Chap10Tutorials\obj\Debug\Chap10Tutorials.csproj.GenerateResource.cache
+C:\Users\Cyberadmin\Desktop\C# Stuff\Chap10Tutorials\Chap10Tutorials\obj\Debug\Chap10Tutorials.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\C# Stuff\Chap10Tutorials\Chap10Tutorials\obj\Debug\Chap10Tutorials.exe
+C:\Users\Cyberadmin\Desktop\C# Stuff\Chap10Tutorials\Chap10Tutorials\obj\Debug\Chap10Tutorials.pdb

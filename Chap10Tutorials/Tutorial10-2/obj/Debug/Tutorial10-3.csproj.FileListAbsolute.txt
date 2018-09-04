@@ -1,0 +1,9 @@
+C:\Users\Cyberadmin\Desktop\C# Stuff\Chap10Tutorials\Tutorial10-2\bin\Debug\Tutorial10-2.exe.config
+C:\Users\Cyberadmin\Desktop\C# Stuff\Chap10Tutorials\Tutorial10-2\bin\Debug\Tutorial10-2.exe
+C:\Users\Cyberadmin\Desktop\C# Stuff\Chap10Tutorials\Tutorial10-2\bin\Debug\Tutorial10-2.pdb
+C:\Users\Cyberadmin\Desktop\C# Stuff\Chap10Tutorials\Tutorial10-2\obj\Debug\Tutorial10_2.Form1.resources
+C:\Users\Cyberadmin\Desktop\C# Stuff\Chap10Tutorials\Tutorial10-2\obj\Debug\Tutorial10_2.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\C# Stuff\Chap10Tutorials\Tutorial10-2\obj\Debug\Tutorial10-3.csproj.GenerateResource.cache
+C:\Users\Cyberadmin\Desktop\C# Stuff\Chap10Tutorials\Tutorial10-2\obj\Debug\Tutorial10-3.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\C# Stuff\Chap10Tutorials\Tutorial10-2\obj\Debug\Tutorial10-2.exe
+C:\Users\Cyberadmin\Desktop\C# Stuff\Chap10Tutorials\Tutorial10-2\obj\Debug\Tutorial10-2.pdb
